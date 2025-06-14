@@ -1,15 +1,4 @@
-```markdown
-<p align="center">
-  <img src="assets/logo.png" width="200" alt="https://i.postimg.cc/zf9k2QNR/asd-2.png">
-  <h1 align="center">M-Society Ghost</h1>
-  <p align="center">Sistema de anonimato total</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Version-3.0-red">
-    <img src="https://img.shields.io/badge/Python-3.8+-blue">
-    <img src="https://img.shields.io/badge/License-GPLv3-orange">
-  </p>
-</p>
-
+## M-Society Ghost
 ---
 
 ## 🔥 Características

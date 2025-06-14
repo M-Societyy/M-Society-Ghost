@@ -1,4 +1,4 @@
-# 🛡️ M-SOCIETY GHOST v3.0
+# 🛡️ M-SOCIETY GHOST v1.0
 
 Sistema de anonimato total con interfaz gráfica para GNU/Linux.
 
